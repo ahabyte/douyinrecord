@@ -11,3 +11,5 @@
 访问密码：0000
 
 推荐在装有 火绒安全 的电脑环境下安装和使用（已测试安全）
+
+<img width="1298" height="773" alt="6713d2b59da13c8edc837efd9af703b2" src="https://github.com/user-attachments/assets/e5545166-85bd-45c3-a4d0-a7f69a1113a9" />
